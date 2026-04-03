@@ -1,4 +1,17 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = "Marina Moya"
 theme = 'LoveIt'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre mí"
+    url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Artículos"
+    url = "/posts/"
+    weight = 30
