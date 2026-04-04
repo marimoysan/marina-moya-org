@@ -5,19 +5,31 @@ theme = 'LoveIt'
 
 [menu]
   [[menu.main]]
-    identifier = "sobre-mi"
-    name = "Sobre mí"
-    url = "/sobre-mi/"
-    weight = 20
+    identifier = "por-que"
+    name = "El Por Qué"
+    url = "/por-que/"
+    weight = 1
 
   [[menu.main]]
-    identifier = "salir-de-google"
-    name = "Salir de Google"
-    url = "/salir-de-google/"
-    weight = 20
+    identifier = "el-como"
+    name = "El Como"
+    url = "/el-como/"
+    weight = 2
 
-    [[menu.main]]
-    identifier = "producto-digital"
-    name = "Desarrollo de Producto"
-    url = "/mis-servicios/"
-    weight = 30
+  [[menu.main]]
+    identifier = "el-que"
+    name = "El Qué"
+    url = "/el-que/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Recursos"
+    name = "Recursos"
+    url = "/recursos/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre Mi"
+    url = "/about/"
+    weight = 5
