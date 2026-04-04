@@ -1,19 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://marinamoya.me/'
 locale = 'en-us'
 title = "Marina Moya"
 theme = 'LoveIt'
 
 [menu]
+    [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
   [[menu.main]]
     identifier = "por-que"
     name = "El Por Qué"
-    url = "/por-que/"
+    url = "/por-que"
     weight = 1
 
   [[menu.main]]
     identifier = "el-como"
     name = "El Cómo"
-    url = "/el-como/"
+    url = "/como"
     weight = 2
 
   [[menu.main]]
@@ -25,11 +31,31 @@ theme = 'LoveIt'
   [[menu.main]]
     identifier = "Recursos"
     name = "Recursos"
-    url = "/recursos/"
+    url = "/recursos"
     weight = 4
 
   [[menu.main]]
     identifier = "about"
     name = "Sobre Mi"
-    url = "/about/"
+    url = "/sobre-mi"
     weight = 5
+
+[params.social]
+
+  [params.social.Mastodon]
+
+    # weight when arranging icons (the greater the weight, the later the icon is positioned)
+
+    weight = 0
+
+    # your social ID
+
+    id = "@xxxx"
+
+    # prefix of your social link
+
+    prefix = "https://mastodon.social/"
+
+    # content hovering on the icon
+
+    title = "Mastodon"
