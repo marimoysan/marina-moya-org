@@ -5,13 +5,19 @@ theme = 'LoveIt'
 
 [menu]
   [[menu.main]]
-    identifier = "about"
+    identifier = "sobre-mi"
     name = "Sobre mí"
-    url = "/about/"
+    url = "/sobre-mi/"
     weight = 20
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Artículos"
-    url = "/posts/"
+    identifier = "salir-de-google"
+    name = "Salir de Google"
+    url = "/salir-de-google/"
+    weight = 20
+
+    [[menu.main]]
+    identifier = "producto-digital"
+    name = "Desarrollo de Producto"
+    url = "/mis-servicios/"
     weight = 30
