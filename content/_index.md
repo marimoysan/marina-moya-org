@@ -11,6 +11,7 @@ Esto pretendo con este proyecto. No vamos a acabar con Google - igual que tampoc
 Habrá quien decida dejar Google por completo, habrá quien lo "consuma ocasionalmente". La cuestión es empezar por ser conscientes y dar pequeños pasos. Y así cada cual puede tomar decisiones informadas sobre cómo gestionar su presencia online, qué productos utilizar y a costa de qué.  
 
 *Este es un proyecto personal de divulgación que no tiene ningún tipo de fin de lucro. Busco fomentar la alfabetización digital de la sociedad.*
+*Objetivos: Divulgativo. Accesible. Gradual. Orientado a acciones concretas.*
 
 ### Para quién:
 

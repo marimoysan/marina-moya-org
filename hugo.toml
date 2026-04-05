@@ -86,7 +86,7 @@ avatarURL = "assets/images/avatar.png"
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = "Por un mejor futuro"
+    custom = "Cada palabra de esta web está escrita por humanos, para humanos."
 
     # whether to show Hugo and theme info
     hugo = true
