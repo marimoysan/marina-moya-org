@@ -6,7 +6,7 @@ Hace no tanto tiempo, comprábamos lo que nos vendían en el supermercado sin pl
 
 De igual manera está pasando con los envases de plástico, con el comercio justo, con la industria cárnica. Las empresas irremediablemente tienen que ir tomando medidas para adaptarse a las exigencias de la sociedad. En su mayor parte no porque les preocupe lo más mínimo las motivaciones, si no porque no les queda otra si quieren seguir haciendo caja.
 
-Esto pretendo con este proyecto. No vamos a acabar con Google - igual que tampoco desapareció CocaCola. Ni con ninguna de las grandes tecnológicas. Pero si podemos empezar a generar conciencia social ante este problema y con suerte empezar a cambiar ciertas dinámicas que se están asentando muy peligrosamente en la sociedad. 
+Esto pretendo con este proyecto. No vamos a acabar con Google - igual que tampoco desapareció CocaCola. Ni con ninguna de las grandes tecnológicas. Pero si podemos empezar a generar conciencia social ante los riesgos que traen consigo y con suerte empezar a cambiar ciertas dinámicas que se están asentando muy peligrosamente en la sociedad. 
 
 Habrá quien decida dejar Google por completo, habrá quien lo "consuma ocasionalmente". La cuestión es empezar por ser conscientes y dar pequeños pasos. Y así cada cual puede tomar decisiones informadas sobre cómo gestionar su presencia online, qué productos utilizar y a costa de qué.  
 
