@@ -1,10 +1,6 @@
-# Mi Proyecto
+# Esta soy yo
 
-Aquí hay una imagen del proyecto:
-
-<img src="/assets/images/2.png" alt="Diagrama del sistema" width="400">
-
- ![Texto alternativo](/assets/images/2.png)
+ ![Texto alternativo](https://osuny-1b4da.kxcdn.com/l1nbse1bae4gn1zfhwt41ni36mr2?format=webp&width=830&height=0&&fit=inside&quality=50)
 
 
 Soy Marina, de Madrid, España, aunque llevo viviendo en Alemania más de 10 años ya. Estudié ingeniería industrial y la vida me ha acabado llevando por caminos que han hecho que me dedique profesionalmente a la gestión de producto digital y software. Pero la realidad es que no es este el motivo por el que he acabado inmersa en el activismo contra las grandes tecnológicas.

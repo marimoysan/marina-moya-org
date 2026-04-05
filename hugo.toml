@@ -2,13 +2,10 @@ baseURL = 'https://marinamoya.me/'
 locale = 'en-us'
 title = "Marina Moya"
 theme = 'LoveIt'
+avatarURL = "assets/images/avatar.png"
+
 
 [menu]
-    [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 1
 
   [[menu.main]]
     identifier = "por-que"
@@ -21,11 +18,11 @@ theme = 'LoveIt'
     name = "El Cómo"
     url = "/como"
     weight = 2
-
+  
   [[menu.main]]
-    identifier = "el-que"
+    identifier = "posts"
     name = "El Qué"
-    url = "/el-que/"
+    url = "/posts/"
     weight = 3
 
   [[menu.main]]
@@ -40,22 +37,40 @@ theme = 'LoveIt'
     url = "/sobre-mi"
     weight = 5
 
+[params.home]
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # URL of avatar shown in home page
+      avatarURL = "https://ca.slack-edge.com/TMFCF005N-U093R1YJVU3-0eadbfb30ab9-512"
+      # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
+      title = "Salir de Google, para cualquiera, pasito a pasito"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "Vamos a ver si aprendemos a salir de Google. Y de las Big Tech en general."
+      # whether to use typeit animation for subtitle
+      typeit = true
+      # whether to show social links
+      social = false
+      # {{< version 0.2.0 >}} disclaimer (HTML format is supported)
+      disclaimer = "Con esta web no pretendo dar lecciones de cómo tienes que hacer las cosas. No considero tener la razón y para mi este es un viaje de aprendizaje. Quiero compartir lo aprendido, para que tú puedas decidir qué hacer con esta información."
+    # Home page posts
+
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+      # {{< version 0.2.0 deleted >}} replaced with hiddenFromHomePage in params.page
+      # default behavior when you don't set "hiddenFromHomePage" in front matter
+      defaultHiddenFromHomePage = false
+
 [params.social]
-
   [params.social.Mastodon]
-
     # weight when arranging icons (the greater the weight, the later the icon is positioned)
-
     weight = 0
-
     # your social ID
-
     id = "@xxxx"
-
     # prefix of your social link
-
     prefix = "https://mastodon.social/"
-
     # content hovering on the icon
-
     title = "Mastodon"
+

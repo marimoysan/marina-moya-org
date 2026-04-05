@@ -1,17 +1,28 @@
----
-title: "Bienvenido a mi Web Eco"
-date: 2026-04-03
-description: "Una web sencilla y de bajo impacto ambiental"
----
+___
+___
 
-# Hola Mundo
+# Bienvenid@ a mi proyecto personal
+En 2019 comencé un viaje de emancipación digital de las grandes tecnológicas (fundamentalmente Google, pero no de manera exclusiva). Comencé cambiando de cuenta de email y de ahí paso a paso he ido avanzando, siempre teniendo como objetivo el intentar conservar mi independencia digital, mi privacidad, mi libertad individual.
 
-Hello, I'm Marina, from Madrid, Spain, 😄 although I've been living in Germany for over 10 years now. I studied industrial engineering, and life eventually led me down paths that made me professionally dedicate myself to digital product and software management. But the truth is, that's not why I ended up immersed in activism against Big Tech.
+Ha sido un camino difícil (sigue siéndolo) y por eso entiendo la resistencia de la sociedad a intentar unirse a él. Y aún más complejo es para todo aquel que no necesariamente tenga conocimientos técnicos.
 
-When I started deleting profiles from the GAFAM ecosystem, it was more because of comments we all began hearing: "my phone listens to me and now I get targeted ads." This never felt right to me, and little by little, I started researching and taking small steps to make things harder for Big Tech companies to access my data. Over the years, the reasons for leaving have only multiplied: I went from simply being aware of my digital privacy and feeling the need for digital freedom and autonomy, to understanding the attention economy they rely on, the risks associated with their market dominance, surveillance capitalism, their growing influence on our behavior and society, and the long-term impact they may have if we don’t try to set some limits.
+**He aquí la cruda realidad:** como ciudadanos de a pie, tenemos una dependencia plena de la tecnología, pero nulos conocimientos sobre ella. 
 
-I see technology as a superpower that humanity has developed, and it's in our hands to use it ethically, sustainably, and in ways that contribute to the common good. From a professional standpoint, I work trying to ensure that the products I develop follow this vision; and from a personal standpoint, I fight against those who don't.
+Por eso he comenzado este proyecto, para intentar allanarle el camino a quienes quieran unirse.
 
-I'm here because I've been moving away from Big Tech towards more sustainable and ethical alternatives since 2019, and today I can say it's possible to live without Google, without Amazon, without Meta… Unfortunately, it's not an easy process as they've managed to weave a web that's hard to escape, but there are alternatives and life doesn't end when you leave them.
+Lo voy a estructurar en tres partes, basándome en el **Golden Circle** de Simon Sinek. 
+<br>
+asdfasdf
+</br>
+<div align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmindbrouwerij.nl%2Fwp-content%2Fuploads%2F2017%2F02%2Fgolden-circle-e1487872452265.png&f=1&nofb=1&ipt=372baa1a3d6778de3b716acae29c304737705c8da906ad9aacee3f6b94e83559"  width="300" >
+</div>
+<br>
+</br>
 
-I'm here to raise awareness, share my experience and reasons for leaving Big Tech, talk about what I've learned along the way, continue learning, and help anyone who wants to embark on this journey.
+* **El Por Qué**: <br> Antes siquiera de ponerse a batallar por salir de Google, hay que entender por qué es importante hacerlo. No es "porque Marina me dice que es malo". Hay millones de motivos por los que necesitamos como sociedad salir de las grandes tecnológicas. Y quiero intentar explicarlos. 
+* **El Cómo:** <br> Que yo resumiría en "poco a poco". Intentar salirse de repente sólo puede llevar a frustración. Hay que adaptarse a las limitaciones que implica salirse de las grandes tecnológicas, y no hace falta salir de golpe. Más allá de nuestra convición personal, la sociedad sigue dependiendo de ellas, por lo que slir de golpe no es fácil, pero tampoco necesario. Pero los pequeños pasos, la interiorización de ciertos hábitos, ya va allanando el camino. 
+* **"El Qué:"** <br> Las alternativas. Hay muchas herramientas alternativas, éticas, sostenibles y que utilizan la privacy-by-design (la privacidad del usuario por encima de todo lo demás). Cada cual puede elegir la que más se ajuste a sus necesidades. Voy a intentar ofrecer alternativas - las que yo conozca más o menos.
+
+
+hola
