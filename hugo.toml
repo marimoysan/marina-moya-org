@@ -146,15 +146,15 @@ avatarURL = "assets/images/avatar.png"
       # URL of avatar shown in home page
       avatarURL = "https://ca.slack-edge.com/TMFCF005N-U093R1YJVU3-0eadbfb30ab9-512"
       # {{< version 0.2.7 changed >}} title shown in home page (HTML format is supported)
-      title = "Salir de Google, para cualquiera, pasito a pasito"
+      title = "Una guía para entender cómo funciona la web, el papel de las Grandes Tecnológicas y cómo desvincularnos"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Vamos a ver si aprendemos a salir de Google. Y de las Big Tech en general."
+      subtitle = "Hay vida más allá de Google. Lo prometo. La he visto."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       # {{< version 0.2.0 >}} disclaimer (HTML format is supported)
-      disclaimer = "¿Tienes alguna duda?¿No sabes por dónde empezar?¿Necesitas ayuda? Escríbeme."
+      disclaimer = "¿Tienes alguna duda?¿No sabes por dónde empezar? Escríbeme."
     # Home page posts
 
     [params.home.posts]

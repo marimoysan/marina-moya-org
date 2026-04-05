@@ -2,11 +2,11 @@ ___
 
 # Un proyecto sobre privacidad, libertad individual y futuro
 
-Hace no tanto tiempo, comprábamos lo que nos vendían en el supermercado sin plantearnos siquiera qué ingredientes contenían los alimentos procesados que consumíamos. A día de hoy, una gran parte de la población en paises desarrollados sabe que beber CocaCola implica consumir azúcar a unos niveles muy dañinos para nuestra salud. Ser conscientes de esta información, hizo que mucha gente optase por dejar de consumir CocaCola a diario, por buscar alternativas más sanas, por no darle CocaCola a sus hijos. Hasta tal punto llegó la concienciación social que CocaCola tuvo que empezar a sacar productos bajos en azúcar.
+Hace no tanto tiempo, comprábamos lo que nos vendían en el supermercado sin plantearnos siquiera qué ingredientes contenían los alimentos procesados que consumíamos. A día de hoy, una gran parte de la población sabe que beber CocaCola implica consumir azúcar a unos niveles muy dañinos para nuestra salud. Ser conscientes de esta información, hizo que mucha gente optase por dejar de consumir CocaCola a diario, por buscar alternativas más sanas, por no darle CocaCola a sus hijos. Hasta tal punto llegó la concienciación social que CocaCola tuvo que empezar a sacar productos bajos en azúcar.
 
-E igual que CocaCola, el resto de marcas, grandes o pequeñas, de alimentos procesados han tenido que ir tomando medidas para adaptarse a las exigencias de la sociedad. 
+De igual manera está pasando con los envases de plástico, con el comercio justo, con la industria cárnica. Las empresas irremediablemente tienen que ir tomando medidas para adaptarse a las exigencias de la sociedad. En su mayor parte no porque les preocupe lo más mínimo las motivaciones, si no porque no les queda otra si quieren seguir haciendo caja.
 
-Esto pretendo con este proyecto. No vamos a acabar con Google - igual que tampoco desapareció CocaCola. Ni con ninguna de las grandes tecnológicas. Pero si podemos empezar a generar conciencia social ante este problema. 
+Esto pretendo con este proyecto. No vamos a acabar con Google - igual que tampoco desapareció CocaCola. Ni con ninguna de las grandes tecnológicas. Pero si podemos empezar a generar conciencia social ante este problema y con suerte empezar a cambiar ciertas dinámicas que se están asentando muy peligrosamente en la sociedad. 
 
 Habrá quien decida dejar Google por completo, habrá quien lo "consuma ocasionalmente". La cuestión es empezar por ser conscientes y dar pequeños pasos. Y así cada cual puede tomar decisiones informadas sobre cómo gestionar su presencia online, qué productos utilizar y a costa de qué.  
 
@@ -14,11 +14,16 @@ Habrá quien decida dejar Google por completo, habrá quien lo "consuma ocasiona
 
 ### Para quién:
 
-Para todos. La era digital ha llegado muy rápido, y no estamos alfabetizados.
+Para todos. El objetivo fundamental de este proyecto es intentar ser accesible para cualquier persona, independientemente de su formación académica. Me he dado cuenta de que la mayor parte de las personas que estamos más concienciadas con esto somos personas con un mínimo de background técnico. 
+
+El contenido disponible en Internet no es accesible y requiere en gran medida de un enorme esfuerzo individual para entender cómo funcionan las cosas, qué alternativas elegir.  
 
 >**He aquí la cruda realidad:** como ciudadanos de a pie, tenemos una dependencia plena de la tecnología, pero nulos conocimientos sobre ella. 
 
-Por eso he comenzado este proyecto, para intentar allanarle el camino a quienes quieran unirse.
+Las Grandes Tecnológicas tienen una grandísima ventaja: la comodidad. Esta guía busca hacer más cómoda la transición hacia otros productos a cualquier persona. 
+
+
+## La Guía. 
 
 Lo voy a estructurar en tres partes, basándome en el **Golden Circle** de Simon Sinek. 
 
