@@ -1,3 +1,4 @@
+
 | Nivel de dificultad | Los Retos | Los Beneficios |Links y Recrusos |
 |----------|----------|----------|----------|
 | La conciencia   |     |    | 
